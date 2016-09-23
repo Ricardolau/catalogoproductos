@@ -1,4 +1,5 @@
+#encabezado
 <?php
-$HostNombre = '/catalogoproductos'; 
+$HostNombre = '/catalogoproductos';
 
 ?>
